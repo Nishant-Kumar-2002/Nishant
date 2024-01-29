@@ -3,8 +3,7 @@ I'm an engineer with interest in applied ML and software development.
 
 🔭 I'm an AI Engineer at Signzy.
    
-   On the side, I’m currently working on deploying deep learning models on edge devices. I'm working on android/IOS/Web development using React.
-
+   On the side, I’m currently working on deploying deep learning models on edge devices.
 📫 How to reach me: nishant7264@gmail.com
 
 ⚡  Some of my other notable open source contributions:
